@@ -1729,6 +1729,12 @@ h5,
   margin-bottom: 20px;
 }
 
+/*Images*/
+.size1 {
+  width: 15%;
+  height: 15%;
+}
+
 /*PRELOADING------------ */
 #overlayer {
   width: 100%;
