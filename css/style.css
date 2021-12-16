@@ -1729,7 +1729,7 @@ h5,
   margin-bottom: 20px;
 }
 
-/*Images*/
+/*Scaling*/
 .size1 {
   width: 15%;
   height: 15%;
@@ -1742,6 +1742,12 @@ h5,
   width: 20%;
   height: 20%;
 }
+
+.center1 {
+  margin: auto;
+  width: 50%
+}
+
 
 /*PRELOADING------------ */
 #overlayer {
